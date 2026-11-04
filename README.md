@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itu-itis23-baranr22/itu-itis23-baranr22/main/assets/banner-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itu-itis23-baranr22/itu-itis23-baranr22/main/assets/banner-light.svg">
-  <img alt="Rojhat Baran. A tile walks across a matrix, block by block, filling the output vector." src="https://raw.githubusercontent.com/itu-itis23-baranr22/itu-itis23-baranr22/main/assets/banner-light.svg" width="100%">
+  <img alt="Rojhat Baran. A breadth-first search spreads across a graph, cluster by cluster." src="https://raw.githubusercontent.com/itu-itis23-baranr22/itu-itis23-baranr22/main/assets/banner-light.svg" width="100%">
 </picture>
 
 I'm a 4th-year Computer Engineering student at Istanbul Technical University. I'm interested in AI/ML, computer vision and systems programming.
