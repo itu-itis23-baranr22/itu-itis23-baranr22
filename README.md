@@ -10,11 +10,14 @@ I'm open to long-term internships: [baranr22@itu.edu.tr](mailto:baranr22@itu.edu
 
 ### Selected work
 
-**[wiki-rag](https://github.com/itu-itis23-baranr22/wiki-rag).** A fully local Wikipedia RAG assistant built with ChromaDB, Ollama and Streamlit. No external APIs.
+**[wiki-rag](https://github.com/itu-itis23-baranr22/wiki-rag)** · [Live demo](https://itu-itis23-baranr22.github.io/wiki-rag/)
+Answers questions about Wikipedia pages using models that run entirely on your own machine. Each sentence in an answer is highlighted together with the source sentence behind it, and it says so when the pages don't contain the answer. Built with hybrid vector and keyword search on FastAPI, ChromaDB and Ollama, and evaluated on a fixed set of 112 questions.
 
-**[crawler](https://github.com/itu-itis23-baranr22/crawler).** A web crawler and search engine with multi-job crawling, file-based indexing and real-time monitoring.
+**[crawler](https://github.com/itu-itis23-baranr22/crawler)**
+A Python search engine that covers the full path from crawling to indexing to ranked search. Multiple crawl jobs run at the same time, each with its own depth and rate limits, and can be paused and resumed from a live dashboard.
 
-**[MiniGames](https://github.com/itu-itis23-baranr22/MiniGames).** A Flutter mobile game collection, including Sonsuz XOX and Element Savaşı.
+**[MiniGames](https://github.com/itu-itis23-baranr22/MiniGames)** · [Play in your browser](https://itu-itis23-baranr22.github.
+Six classic-style games built with Flutter, each with a twist. In Sonsuz XOX your oldest piece disappears when you place a fourth, and in Dönen Dörtlü the boaruns on web and Android, with interactivetutorials and CPU opponents at three difficulty levels.
 
 ### Tools
 
