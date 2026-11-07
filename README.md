@@ -20,10 +20,12 @@ vector and keyword search on FastAPI, ChromaDB and Ollama, and
 evaluated on a fixed set of 112 questions.
 
 **[crawler](https://github.com/itu-itis23-baranr22/crawler)**<br>
-A Python search engine that covers the full path from crawling to
-indexing to ranked search. Multiple crawl jobs run at the same time,
-each with its own depth and rate limits, and can be paused and
-resumed from a live dashboard.
+A search engine that runs on your own machine, with the crawler and
+BM25 index written from scratch in Python. It obeys robots.txt and
+per-site speed limits, and a live map shows every address it reached
+and why each one was indexed, skipped or failed. Several crawls run
+at once without losing data, and an interrupted crawl resumes where
+it stopped.
 
 **[MiniGames](https://github.com/itu-itis23-baranr22/MiniGames)** ·
 [Play in your browser](https://itu-itis23-baranr22.github.io/MiniGames/)<br>
